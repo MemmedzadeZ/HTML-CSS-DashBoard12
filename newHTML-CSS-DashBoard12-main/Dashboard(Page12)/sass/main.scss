@@ -1,0 +1,168 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: DM Sans;
+  //   background-color: wheat;
+}
+.header__image {
+  display: flex;
+}
+.dashBoard_Header {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 106px;
+
+  font-size: 30px;
+}
+.header__serch-paragrf {
+  color: gray;
+  margin-top: 5px;
+  //   background-color: white;
+}
+
+.dashBoard_div-logo {
+  margin-left: 30px;
+}
+
+.dashBoard_div {
+  display: flex;
+}
+
+.card_Blue {
+  width: 448px;
+  height: 260px;
+  top: 100px;
+  left: 136px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.dashBoard_main-divbase {
+  display: flex;
+}
+///////////////////////////////////////////////////////////////////////
+
+.dashBoard_main-cards {
+  background-color: #4339f2;
+  width: 348px;
+  height: 200px;
+  top: 100px;
+  left: 136px;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.dashBoard_card-after {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 30px;
+}
+
+.dashBoard_card-text {
+  margin-top: 20px;
+  color: white;
+  font-size: 15px;
+  font-weight: 20px;
+}
+
+.dashBoard_card-img {
+  margin-right: 20px;
+  margin-top: 10px;
+}
+.dashBoard_card-admin {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  margin-left: 30px;
+  color: white;
+  font-size: 10px;
+}
+.dashBoard_card-code {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-left: 30px;
+  color: white;
+}
+.dashBoard_card-before {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35px;
+  margin-left: 30px;
+  color: white;
+}
+
+.dashBoard_card-bankimage {
+  margin-right: 30px;
+}
+
+/////////////////////////////////////////////////////////////////////////////////////
+
+.dashBoard_main-cards1 {
+  background-color: #ff3a29;
+  width: 348px;
+  height: 200px;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.dashBoard_card-admin1 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  margin-left: 30px;
+  color: white;
+  font-size: 10px;
+}
+
+.dashBoard_card-code1 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-left: 30px;
+  color: white;
+}
+//////////////////////////////////////////////////////////////////////////
+
+.dashBoard_main-cards2 {
+  background-color: #34b53a;
+  width: 348px;
+  height: 200px;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.dashBoard_card-admin2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  margin-left: 30px;
+  color: white;
+  font-size: 10px;
+}
+
+.dashBoard_card-code2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-left: 30px;
+  color: white;
+}
+/// ///////////////////////////////////////////
+/// ///////////////////////////////////////////
+/// ///////////////////////////////////////////
+/// ///////////////////////////////////////////
+/// ///////////////////////////////////////////
+/// ///////////////////////////////////////////
+/// ///////////////////////////////////////////
+/// ///////////////////////////////////////////
+/// ///////////////////////////////////////////
+/// ///////////////////////////////////////////
+.dashBoard_main-Table {
+  display: flex;
+  margin-top: 90px;
+}
